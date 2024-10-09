@@ -13,7 +13,7 @@ Responsive design
 ```
 git clone https://github.com/your-username/To-Do-Task-Management.git
 ```
-# 2: Configure Supabase
+# Step 2: Configure Supabase
 Create a Supabase account and obtain your API URL and key
 Replace supabaseUrl and supabaseApiKey variables with your own credentials
 # Step 3: Run Application
